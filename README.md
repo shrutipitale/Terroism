@@ -1,6 +1,7 @@
 # Terroism
 Exploratory data analysis on global terrorism
-Description:
+
+# Description:
 This project involves an exploratory data analysis (EDA) on a comprehensive dataset of global terrorism incidents. The dataset includes detailed information about each terrorist event, such as the date and location of the incident, the groups involved, the types of attacks and weapons used, and the outcomes in terms of casualties and damage.
 
 Database Scheme:
